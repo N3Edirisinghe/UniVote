@@ -2,6 +2,8 @@
 
 Welcome to the SLTC Voting System! This is a modern, secure, and user-friendly web application built to facilitate seamless voting processes. 
 
+🌐 **Live Demo:** [https://sltc-voting.vercel.app/](https://sltc-voting.vercel.app/)
+
 ## 🚀 Technologies Used
 This project is built using a cutting-edge modern tech stack:
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
